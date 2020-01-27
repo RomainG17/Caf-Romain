@@ -265,15 +265,14 @@ input {
 
 .textearea {
     margin-left: 400px;
-    margin-top: 10px;
     max-width: 540px;
 
 }
 
 .button4 {
     position: absolute;
-    margin-top: 100px;
-    margin-left: -550px;
+    top: 550px;
+    margin-left: -150px;
     background-color: black ; 
     border: none;     
     color: white;     
